@@ -1,2 +1,2 @@
-# java-workshops
-Fundamental Projects for Java
+# python-workshops
+Fundamental Projects for python
